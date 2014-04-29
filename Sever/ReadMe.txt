@@ -1,1 +1,5 @@
-으아아아
+npm install bcrypt	-> password hash
+ 	    mongodb	-> user DB
+	    mongoose	-> DB Controller
+	    socket.io
+	    
