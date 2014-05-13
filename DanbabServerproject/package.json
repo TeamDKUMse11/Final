@@ -1,0 +1,10 @@
+﻿{
+  "name": "DanbabServerproject",
+  "version": "0.0.0",
+  "description": "DanbabServerproject",
+  "main": "server.js",
+  "author": {
+    "name": "YounSeok",
+    "email": ""
+  }
+}
