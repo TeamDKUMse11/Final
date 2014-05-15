@@ -14,3 +14,6 @@
 - mobile-os.dankook.ac.kr:8998 로 접속시 기본적으로 해당 요일의 식단을 표시
 	query에 file=Mon 입력시 월요일 식단 전송(Mon  Tue  Wed  Thu  Fir  Sat) 
 	*********일요일에대한 처리 없음 (서버 죽을거니까 하지마시길)
+
+
+하염 키득 
