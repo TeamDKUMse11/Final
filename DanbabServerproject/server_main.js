@@ -6,6 +6,7 @@ var port = process.env.port || 8998;
 
 var date = new Date();
 
+
 http.createServer(function (req, res) {
     var query = url.parse(req.url).query;
     var filename = querystr.parse(query).file + ".json";
@@ -45,8 +46,5 @@ http.createServer(function (req, res) {
             }
         });
      },2000)
-
-
-
 }).listen(port);
 

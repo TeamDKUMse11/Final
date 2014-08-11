@@ -12,7 +12,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ac0d9407-cdd7-4f1f-878b-6b8b0c565fde</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>server.js</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -30,7 +31,11 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="server.js" />
+    <Compile Include="server_GetDorm.js" />
+    <Compile Include="server_GetKit.js" />
+    <Compile Include="server_GetProf.js" />
+    <Compile Include="server_GetStd.js" />
+    <Compile Include="server_main.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
